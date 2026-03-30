@@ -1,10 +1,10 @@
-# ☕ Coffee Shop Sales Analysis & AI Assistant
+# Coffee Shop Sales Analysis & AI Assistant
 
 This project analyzes coffee shop sales data to uncover key business insights and transforms those insights into an interactive AI assistant using Dify.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The goal of this project was not just to analyze data, but to make insights **accessible and actionable**.
 
@@ -13,7 +13,7 @@ I then integrated the findings into a Dify-powered chatbot, allowing users to qu
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - **Coffee dominates revenue** across all regions and customer segments  
 - **Loyal customers spend slightly less per transaction**, indicating engagement but not higher basket size  
@@ -23,7 +23,7 @@ I then integrated the findings into a Dify-powered chatbot, allowing users to qu
 
 ---
 
-## 🤖 AI Integration (Dify)
+## AI Integration (Dify)
 
 Instead of static dashboards, this project introduces an AI assistant that can answer questions like:
 
@@ -32,4 +32,10 @@ Instead of static dashboards, this project introduces an AI assistant that can a
 - What strategies can increase revenue?
 
 The chatbot uses structured insights and data summaries to provide **data-backed, actionable responses**.
+
+## Key Learnings
+
+- Insights alone are not enough — **how they are consumed matters**
+- Customer behavior is often driven more by **context than demographics**
+- AI can bridge the gap between analysis and decision-making
 
